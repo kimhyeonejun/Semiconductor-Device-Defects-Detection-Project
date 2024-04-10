@@ -1,2 +1,2 @@
 # Semiconductor-Device-Defects-Detection-Project
-The purpose of this project is to perform the classification task to detect the defects of semiconductor devices.
+The purpose of this project is to perform the classification task to detect the defects of semiconductor devices. A set of data for semiconductor devices with about 12000 samples and 600 features is given and our task is to preprose, train and validate the model. It is our duty to choose the best model that would give the best result when tested with test sets. The result is given in .txt file. 
